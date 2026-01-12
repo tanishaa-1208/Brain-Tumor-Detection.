@@ -80,7 +80,9 @@ Brain_MRI_SCAN.ipynb
 b.) Option 2: Run on Google Colab (Recommended)
 
 1. Upload Brain_MRI_SCAN.ipynb to Google Colab
+
 2.Upload the dataset when prompted (or mount Google Drive if configured)
+
 3. Run all cells to reproduce results
 
 📌 [A Colab link can be provided for direct execution.](https://colab.research.google.com/github/tanishaa-1208/Brain-Tumor-Detection./blob/main/Brain_MRI_SCAN.ipynb) 
